@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vpodqn.github.io/sitemap.html.gz
+Sitemap: https://vpodqn.github.io/app/sitemap.html.gz
+Sitemap: https://vpodqn.github.io/assets/sitemap.html.gz
+Sitemap: https://vpodqn.github.io/css/sitemap.html.gz
+Sitemap: https://vpodqn.github.io/data/sitemap.html.gz
+Sitemap: https://vpodqn.github.io/includes/sitemap.html.gz
+Sitemap: https://vpodqn.github.io/item/sitemap.html.gz
+Sitemap: https://vpodqn.github.io/src/sitemap.html.gz
